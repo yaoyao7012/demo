@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T07:56:22.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="kZXZvmQxD0iuoPJPCGMV" version="14.6.12" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-05-18T08:19:44.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="GaHQL_FZf1r-IR8p0I9W" version="14.6.12" type="github" pages="7">
   <diagram id="CuTIRfwt2aPpdApk50O1" name="Page-1">
     <mxGraphModel dx="1038" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -613,6 +613,63 @@
       <root>
         <mxCell id="N0gZx_ezotxwzArMI11z-0" />
         <mxCell id="N0gZx_ezotxwzArMI11z-1" parent="N0gZx_ezotxwzArMI11z-0" />
+        <mxCell id="Rflmnch8kkcpe3LY7jqV-0" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="N0gZx_ezotxwzArMI11z-1">
+          <mxGeometry x="250" y="70" width="340" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Rflmnch8kkcpe3LY7jqV-1" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="N0gZx_ezotxwzArMI11z-1">
+          <mxGeometry x="180" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rflmnch8kkcpe3LY7jqV-2" value="标段类型管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="N0gZx_ezotxwzArMI11z-1">
+          <mxGeometry x="364" y="100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rflmnch8kkcpe3LY7jqV-3" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="N0gZx_ezotxwzArMI11z-1" source="Rflmnch8kkcpe3LY7jqV-1" target="Rflmnch8kkcpe3LY7jqV-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="290" as="sourcePoint" />
+            <mxPoint x="440" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rflmnch8kkcpe3LY7jqV-4" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="N0gZx_ezotxwzArMI11z-1" source="Rflmnch8kkcpe3LY7jqV-1" target="Rflmnch8kkcpe3LY7jqV-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="290" as="sourcePoint" />
+            <mxPoint x="314" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rflmnch8kkcpe3LY7jqV-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="N0gZx_ezotxwzArMI11z-1" source="Rflmnch8kkcpe3LY7jqV-0" target="Rflmnch8kkcpe3LY7jqV-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rflmnch8kkcpe3LY7jqV-6" value="字典管理模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="N0gZx_ezotxwzArMI11z-1">
+          <mxGeometry x="250" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rflmnch8kkcpe3LY7jqV-7" value="考核性质管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="N0gZx_ezotxwzArMI11z-1">
+          <mxGeometry x="364" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rflmnch8kkcpe3LY7jqV-8" value="公司类型管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="N0gZx_ezotxwzArMI11z-1">
+          <mxGeometry x="364" y="170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rflmnch8kkcpe3LY7jqV-9" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="N0gZx_ezotxwzArMI11z-1" source="Rflmnch8kkcpe3LY7jqV-1" target="Rflmnch8kkcpe3LY7jqV-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rflmnch8kkcpe3LY7jqV-10" value="考核类型管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="N0gZx_ezotxwzArMI11z-1">
+          <mxGeometry x="364" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rflmnch8kkcpe3LY7jqV-11" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="N0gZx_ezotxwzArMI11z-1" source="Rflmnch8kkcpe3LY7jqV-1" target="Rflmnch8kkcpe3LY7jqV-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="240" as="sourcePoint" />
+            <mxPoint x="324" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rflmnch8kkcpe3LY7jqV-12" value="计量单位管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="N0gZx_ezotxwzArMI11z-1">
+          <mxGeometry x="364" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rflmnch8kkcpe3LY7jqV-13" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="N0gZx_ezotxwzArMI11z-1" source="Rflmnch8kkcpe3LY7jqV-1" target="Rflmnch8kkcpe3LY7jqV-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
