@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T07:38:22.403Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="TpSHrFDUbVnhF9sPQDIN" version="14.6.13" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-05-19T07:38:41.618Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="h2QNFiuy5-SFccsLMPOS" version="14.6.13" type="github" pages="12">
   <diagram id="CuTIRfwt2aPpdApk50O1" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1577,7 +1577,7 @@
         <mxCell id="1wLOm-i1lW27Lm6ic02z-0" />
         <mxCell id="1wLOm-i1lW27Lm6ic02z-1" parent="1wLOm-i1lW27Lm6ic02z-0" />
         <mxCell id="1wLOm-i1lW27Lm6ic02z-2" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Vue.js+Element UI" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontStyle=1" vertex="1" parent="1wLOm-i1lW27Lm6ic02z-1">
-          <mxGeometry x="130" y="90" width="420" height="40" as="geometry" />
+          <mxGeometry x="130" y="100" width="420" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1wLOm-i1lW27Lm6ic02z-3" value="" style="endArrow=none;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1wLOm-i1lW27Lm6ic02z-1" source="1wLOm-i1lW27Lm6ic02z-2" target="1wLOm-i1lW27Lm6ic02z-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1595,7 +1595,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1wLOm-i1lW27Lm6ic02z-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1wLOm-i1lW27Lm6ic02z-1">
-          <mxGeometry x="130" y="210" width="420" height="100" as="geometry" />
+          <mxGeometry x="130" y="200" width="420" height="100" as="geometry" />
         </mxCell>
         <mxCell id="1wLOm-i1lW27Lm6ic02z-7" value="" style="endArrow=none;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1wLOm-i1lW27Lm6ic02z-1" source="1wLOm-i1lW27Lm6ic02z-6" target="1wLOm-i1lW27Lm6ic02z-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1604,7 +1604,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1wLOm-i1lW27Lm6ic02z-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1wLOm-i1lW27Lm6ic02z-1">
-          <mxGeometry x="130" y="340" width="420" height="40" as="geometry" />
+          <mxGeometry x="130" y="310" width="420" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1wLOm-i1lW27Lm6ic02z-9" value="" style="endArrow=none;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1wLOm-i1lW27Lm6ic02z-1" source="1wLOm-i1lW27Lm6ic02z-8" target="1wLOm-i1lW27Lm6ic02z-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1613,7 +1613,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1wLOm-i1lW27Lm6ic02z-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1wLOm-i1lW27Lm6ic02z-1">
-          <mxGeometry x="130" y="400" width="420" height="40" as="geometry" />
+          <mxGeometry x="130" y="360" width="420" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1wLOm-i1lW27Lm6ic02z-11" value="" style="endArrow=none;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1wLOm-i1lW27Lm6ic02z-1" source="1wLOm-i1lW27Lm6ic02z-10" target="1wLOm-i1lW27Lm6ic02z-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1628,16 +1628,16 @@
           <mxGeometry x="160" y="160" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1wLOm-i1lW27Lm6ic02z-14" value="业务逻辑层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1wLOm-i1lW27Lm6ic02z-1">
-          <mxGeometry x="140" y="250" width="90" height="20" as="geometry" />
+          <mxGeometry x="140" y="240" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1wLOm-i1lW27Lm6ic02z-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;startArrow=none;startFill=0;" edge="1" parent="1wLOm-i1lW27Lm6ic02z-1" source="1wLOm-i1lW27Lm6ic02z-14" target="1wLOm-i1lW27Lm6ic02z-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1wLOm-i1lW27Lm6ic02z-16" value="持久层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1wLOm-i1lW27Lm6ic02z-1">
-          <mxGeometry x="160" y="350" width="50" height="20" as="geometry" />
+          <mxGeometry x="160" y="320" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1wLOm-i1lW27Lm6ic02z-17" value="数据存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1wLOm-i1lW27Lm6ic02z-1">
-          <mxGeometry x="150" y="410" width="70" height="20" as="geometry" />
+          <mxGeometry x="150" y="370" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
