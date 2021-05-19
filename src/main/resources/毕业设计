@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T08:44:49.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="ABmie5HkTkQpxObRiMBy" version="14.6.13" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-05-19T08:44:56.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="9dYLV6fy-jf8eTirCc3E" version="14.6.13" type="github" pages="13">
   <diagram id="CuTIRfwt2aPpdApk50O1" name="Page-1">
     <mxGraphModel dx="1038" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1681,7 +1681,7 @@
           <mxGeometry x="420" y="100" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nuzXzGZIrCOw_01VKlb_-10" value="&lt;font style=&quot;font-size: 12px&quot;&gt;参建公司&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;fontSize=16;strokeWidth=1;" vertex="1" parent="nuzXzGZIrCOw_01VKlb_-1">
-          <mxGeometry x="120" y="270" width="70" height="30" as="geometry" />
+          <mxGeometry x="170" y="270" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nuzXzGZIrCOw_01VKlb_-11" value="&lt;font style=&quot;font-size: 12px&quot;&gt;合同标段&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;fontSize=16;strokeWidth=1;" vertex="1" parent="nuzXzGZIrCOw_01VKlb_-1">
           <mxGeometry x="374" y="360" width="70" height="30" as="geometry" />
@@ -1712,39 +1712,39 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nuzXzGZIrCOw_01VKlb_-22" value="名称" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=12;strokeWidth=1;" vertex="1" parent="nuzXzGZIrCOw_01VKlb_-1">
-          <mxGeometry x="20" y="320" width="70" height="20" as="geometry" />
+          <mxGeometry x="70" y="320" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nuzXzGZIrCOw_01VKlb_-24" value="公司类型" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=12;strokeWidth=1;" vertex="1" parent="nuzXzGZIrCOw_01VKlb_-1">
-          <mxGeometry x="20" y="288" width="70" height="20" as="geometry" />
+          <mxGeometry x="70" y="288" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nuzXzGZIrCOw_01VKlb_-25" value="公司代码" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=12;strokeWidth=1;" vertex="1" parent="nuzXzGZIrCOw_01VKlb_-1">
-          <mxGeometry x="20" y="260" width="70" height="20" as="geometry" />
+          <mxGeometry x="70" y="260" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nuzXzGZIrCOw_01VKlb_-26" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nuzXzGZIrCOw_01VKlb_-1" source="nuzXzGZIrCOw_01VKlb_-10" target="nuzXzGZIrCOw_01VKlb_-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-5" y="418" as="sourcePoint" />
-            <mxPoint x="155" y="418" as="targetPoint" />
+            <mxPoint x="45" y="418" as="sourcePoint" />
+            <mxPoint x="205" y="418" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nuzXzGZIrCOw_01VKlb_-27" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nuzXzGZIrCOw_01VKlb_-1" target="nuzXzGZIrCOw_01VKlb_-24">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="285" as="sourcePoint" />
-            <mxPoint x="100" y="280" as="targetPoint" />
+            <mxPoint x="170" y="285" as="sourcePoint" />
+            <mxPoint x="150" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nuzXzGZIrCOw_01VKlb_-28" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nuzXzGZIrCOw_01VKlb_-1" target="nuzXzGZIrCOw_01VKlb_-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="285" as="sourcePoint" />
-            <mxPoint y="268" as="targetPoint" />
+            <mxPoint x="170" y="285" as="sourcePoint" />
+            <mxPoint x="50" y="268" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nuzXzGZIrCOw_01VKlb_-29" value="简称" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=12;strokeWidth=1;" vertex="1" parent="nuzXzGZIrCOw_01VKlb_-1">
-          <mxGeometry x="20" y="230" width="70" height="20" as="geometry" />
+          <mxGeometry x="70" y="230" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nuzXzGZIrCOw_01VKlb_-30" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nuzXzGZIrCOw_01VKlb_-1" target="nuzXzGZIrCOw_01VKlb_-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="285" as="sourcePoint" />
-            <mxPoint x="210" y="248" as="targetPoint" />
+            <mxPoint x="170" y="285" as="sourcePoint" />
+            <mxPoint x="260" y="248" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nuzXzGZIrCOw_01VKlb_-31" value="&lt;font style=&quot;font-size: 12px&quot;&gt;添加/修改&lt;/font&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=16;strokeWidth=1;" vertex="1" parent="nuzXzGZIrCOw_01VKlb_-1">
